@@ -1,0 +1,14 @@
+C:\Data\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\bin\Debug\TTTOfficeWrapper.dll
+C:\Data\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\bin\Debug\TTTOfficeWrapper.pdb
+C:\Data\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\obj\Debug\TTTOfficeWrapper.csprojResolveAssemblyReference.cache
+C:\Data\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\obj\Debug\TTTOfficeWrapper.dll
+C:\Data\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\obj\Debug\TTTOfficeWrapper.pdb
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\bin\Debug\TTTOfficeWrapper.dll
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\bin\Debug\TTTOfficeWrapper.pdb
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\obj\Debug\TTTOfficeWrapper.dll
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\obj\Debug\TTTOfficeWrapper.pdb
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\bin\Debug\office.dll
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\bin\Debug\stdole.dll
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\obj\Debug\TTTOfficeWrapper.csprojResolveAssemblyReference.cache

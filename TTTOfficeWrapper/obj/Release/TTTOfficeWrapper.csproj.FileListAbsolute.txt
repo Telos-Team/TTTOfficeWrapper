@@ -1,0 +1,3 @@
+C:\Data\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\bin\Release\TTTOfficeWrapper.dll
+C:\Data\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\obj\Release\TTTOfficeWrapper.dll
+C:\Data\Visual Studio 2015\Projects\TTTOfficeWrapper\TTTOfficeWrapper\obj\Release\TTTOfficeWrapper.csprojResolveAssemblyReference.cache
